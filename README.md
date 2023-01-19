@@ -23,7 +23,7 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 -   🚀 Escribeme: Telegram | [@rasoftdev](https://t.me/rasoftdev)
 -   📫 Escribeme: dev@ricardoalvarez.com.co
 -   🌐 Sitio web: https://ricardoalvarez.com.co
--   💻 Cuenta Github Principal: [github.com/rasoftdev](https://github.com/rasoftdev)
+-   💻 Github Principal: [github.com/rasoftdev](https://github.com/rasoftdev)
 
 ### 🚀 Sígueme
 

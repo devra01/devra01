@@ -1,6 +1,6 @@
 # Ricardo Alvarez - Software Developer [rasoftdev] 👋 👨‍💻
 
-<img src="https://links.ricardoalvarez.com.co/assets/images/portadaGit.png" alt="Ricardo Alvarez - Software Developer">
+<img src="https://links.ricardoalvarez.com.co/assets/images/portadaGit_1.png" alt="Ricardo Alvarez - Software Developer">
 
 <p align="justify">
 Soy Ricardo Alvarez, desarrollador de software con más de 8 años de experiencia en el desarrollo de soluciones web de alta calidad y través de mi marca personal donde me enfoco en transformar las ideas y necesidades de mis clientes en soluciones tecnológicas adecuadas y atractivas que generen valor para ellos y sus negocios.
@@ -26,7 +26,7 @@ Soy una excelente opción para aquellos que buscan soluciones de software web pe
 -   🚀 Escribeme: WhatsApp | [+573152691365](https://api.whatsapp.com/send?phone=573152691365)
 -   🚀 Escribeme: Telegram | [@rasoftdev](https://t.me/rasoftdev)
 -   📫 Escribeme: dev@ricardoalvarez.com.co
--   🌐 Sitio web: https://ricardoalvarez.com.co
+-   🌐 Sitio web: https://links.ricardoalvarez.com.co
 -   💻 Github Principal: [github.com/rasoftdev](https://github.com/rasoftdev)
 
 ### 🚀 Sígueme

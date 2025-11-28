@@ -1,7 +1,5 @@
 # Ricardo Alvarez - Senior Developer [rasoftdev] 👋 👨‍💻
 
-<img src="https://links.ricardoalvarez.com.co/assets/images/portadaGit_1.png" alt="Ricardo Alvarez - Software Developer">
-
 <p align="justify">
 Soy Ricardo Alvarez, desarrollador de software con más de 8 años de experiencia en el desarrollo de soluciones web de alta calidad y través de mi marca personal donde me enfoco en transformar las ideas y necesidades de mis clientes en soluciones tecnológicas adecuadas y atractivas que generen valor para ellos y sus negocios.
 </p>
@@ -26,13 +24,13 @@ Soy una excelente opción para aquellos que buscan soluciones de software web pe
 -   🚀 Escribeme: WhatsApp | [+573152691365](https://api.whatsapp.com/send?phone=573152691365)
 -   🚀 Escribeme: Telegram | [@rasoftdev](https://t.me/rasoftdev)
 -   📫 Escribeme: dev@ricardoalvarez.com.co
--   🌐 Sitio web: https://links.ricardoalvarez.com.co
+-   🌐 Sitio web: https://ricardoalvarez.com.co
 -   💻 Github Principal: [github.com/rasoftdev](https://github.com/rasoftdev)
 
 ### 🚀 Sígueme
 
 <a href="https://instagram.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"></a>&nbsp; 
-<a href="https://facebook.com/ricardo.alvarez.297909" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg"></a>&nbsp; 
+<a href="https://facebook.com/rasoftdev1" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg"></a>&nbsp; 
 <a href="https://twitter.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"></a>&nbsp;
 <a href="https://www.tiktok.com/@rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Tik%20Tok.svg"></a>&nbsp;
 <a href="https://www.linkedin.com/in/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a> 

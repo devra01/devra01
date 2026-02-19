@@ -1,31 +1,21 @@
 # Ricardo Alvarez - Software Developer [devra01] 👋 👨‍💻
 
 <p align="justify">
-Soy Ricardo Alvarez, desarrollador de software con más de 8 años de experiencia en el desarrollo de soluciones web de alta calidad y través de mi marca personal donde me enfoco en transformar las ideas y necesidades de mis clientes en soluciones tecnológicas adecuadas y atractivas que generen valor para ellos y sus negocios.
+Soy Ricardo Alvarez, desarrollador de software especializado en el diseño y desarrollo de aplicaciones web robustas, escalables y orientadas a resultados.
 </p>
 <p align="justify">
-Para mí, cada proyecto es único y lo trato de esa manera. Mi enfoque se centra en el cliente y en asegurarme de que cada solución que proporciono satisfaga completamente sus necesidades y objetivos empresariales. Trabajo estrechamente con mis clientes para entender sus requerimientos y para asegurarme de que las soluciones que propongo sean personalizadas y adecuadas para ellos.
+A lo largo de mi trayectoria profesional he participado en la construcción de soluciones tecnológicas para distintos contextos y necesidades, transformando requerimientos complejos en sistemas eficientes, mantenibles y bien estructurados. Trabajo aplicando buenas prácticas de desarrollo, principios de arquitectura limpia y un fuerte enfoque en la calidad del código.
 </p> 
 <p align="justify">
-Soy una excelente opción para aquellos que buscan soluciones de software web personalizadas y de alta calidad que se adapten a sus necesidades específicas. Mi enfoque centrado en el cliente, mi amplia experiencia y mi compromiso con la calidad son las claves para el éxito de sus proyectos de desarrollo de software.
+Me distingo por mi compromiso con la excelencia técnica, la claridad en la resolución de problemas y la capacidad de aportar soluciones confiables que generan impacto real. Mantengo una mentalidad de mejora continua y una fuerte orientación a construir software de calidad, preparado para entornos reales y desafíos exigentes.
 </p>
-<p>
----
-  
-🌐 Sitios web<br>
-🛒 Tiendas online<br>
-💻 Aplicaciones web<br>
-💽 Hosting y dominios web<br>
-</p>
-
   
 ### ✨ Contactos
 
 -   🚀 Escribeme: WhatsApp | [+573152691365](https://api.whatsapp.com/send?phone=573152691365)
 -   🚀 Escribeme: Telegram | [@rasoftdev](https://t.me/rasoftdev)
 -   📫 Escribeme: dev@ricardoalvarez.com.co
--   🌐 Sitio web: https://ricardoalvarez.com.co
--   💻 Github Principal: [github.com/rasoftdev](https://github.com/rasoftdev)
+-   🌐 Sitio web: [ricardoalvarez.com.co](https://ricardoalvarez.com.co)
 
 ### 🚀 Sígueme
 

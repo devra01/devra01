@@ -54,4 +54,4 @@ Me distingo por mi compromiso con la excelencia técnica, la claridad en la reso
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion)
 ![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
 ![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
-![Webflow](https://img.shields.io/badge/-python-black?style=flat-square&logo=webflow)
+![Webflow](https://img.shields.io/badge/-webflow-black?style=flat-square&logo=webflow)

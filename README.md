@@ -55,3 +55,5 @@ Me distingo por mi compromiso con la excelencia técnica, la claridad en la reso
 ![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
 ![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
 ![Webflow](https://img.shields.io/badge/-webflow-black?style=flat-square&logo=webflow)
+![Filament](https://img.shields.io/badge/-filament-black?style=flat-square&logo=filament)
+![Docker](https://img.shields.io/badge/-docker-black?style=flat-square&logo=docker)

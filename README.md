@@ -1,4 +1,5 @@
 # Ricardo Alvarez - Software Developer [devra01] 👋 👨‍💻
+<img src="https://ricardoalvarez.com.co/assets/images/portada.png" alt="Ricardo Alvarez">
 
 <p align="justify">
 Soy Ricardo Alvarez, desarrollador de software especializado en el diseño y desarrollo de aplicaciones web robustas, escalables y orientadas a resultados.
